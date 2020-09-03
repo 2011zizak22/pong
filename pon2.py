@@ -63,4 +63,7 @@ def click (keystroke):
         current_ball_position["y"] -= w
 
     elif klavesa == "↓":
+    current_ball_position["y"] -= w
+
+    elif klavesa == "↓":
          current_ball_position["x"] += w
